@@ -1,0 +1,13 @@
+export {default as HomeIcon} from './home.svg';
+export {default as Avatar} from './avatar.svg';
+export {default as DiscoveryIcon} from './discovery.svg';
+export {default as HomeTabIcon} from './homeTab.svg';
+export {default as NewsIcon} from './news.svg';
+export {default as MapIcon} from './map.svg';
+export {default as EducationIcon} from './education.svg';
+export {default as Up} from './up.svg';
+export {default as Down} from './down.svg';
+export {default as RedBell} from './redBell.svg';
+export {default as GreenBell} from './greenBell.svg';
+export {default as UserCheck} from './userCheck.svg';
+export {default as Menu} from './menu.svg';
